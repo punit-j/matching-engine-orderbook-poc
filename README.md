@@ -1,9 +1,3 @@
-# Volmex Perpetual Futures Exchange Relayer Nodes
-
-The distributed network of relayer nodes matches bids and asks from the Volmex perpetual futures exchange.
-
-## Contributing
-
 ### Requirements
 
 * Go 1.19.+
